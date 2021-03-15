@@ -1,5 +1,4 @@
-Please read this document for the FX Calculator Code Submission:
-
+Assumptions and Instructions
 1. JDK 11 has been used for this coding exercise.
 2. To run the program, run FXCalculatorApplication's main method. Input/Outputs are displayed on console.
 3. Assumption - Currency rates and Cross Currency Tables are provided for this solution.
